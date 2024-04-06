@@ -1,0 +1,30 @@
+{
+    "en" : {
+        "title" : "Hello! Good Morning.",
+        "tagline" : "Today we are learning about Internationalization or I18N",
+        "info": "This is an important topic.",
+        "greeting": "Hope you have a good day.",
+        "likes": "<likesCount> Likes"
+    },
+    "mr" : {
+        "title" : "नमस्कार! शुभ प्रभात.",
+        "tagline" : "आज आपण Internationalization किंवा I18N बद्दल शिकत आहोत",
+        "info": "हा एक महत्त्वाचा विषय आहे.",
+        "greeting": "तुझा दिवस चांगला जावं.",
+        "likes": "<likesCount> लाइक्स"
+    },
+    "hi" : {
+        "title" : "नमस्ते! शुभ प्रभात।",
+        "tagline" : "आज हम Internationalization या I18N के बारे में सीख रहे हैं",
+        "info": "यह एक महत्वपूर्ण विषय है.",
+        "greeting": "आशा करता हूँ कि आपका दिन शुभ हो।",
+        "likes": "<likesCount> लाइक्स"
+    },
+    "fr" : {
+        "title": "Bonjour! Bonjour.",
+        "tagline" : "Aujourd'hui, nous apprenons l'internationalisation ou I18N",
+        "info": "C'est un sujet important.",
+        "greeting": "J'espère que tu passes une bonne journée.",
+        "likes": "aime <likesCount>"
+    }
+}

@@ -1,0 +1,43 @@
+.card{
+  margin: 20px auto;
+  width: 800px;
+  border: 1px solid #000000;
+  background-color: #e8d8ff;
+  padding: 20px 30px;
+  border: none;
+  border-radius: 20px;
+}
+.select-menu{
+  padding: 2px 10px;
+  background-color: #e8d8ff;
+  border: 1px solid #6a00ff;
+  border-radius: 3px;
+}
+.card-title{
+  font-size: 30px;
+  text-align: center;
+}
+.tagline{
+  font-size: 20px;
+  color: #6a00ff;
+  font-weight: 700;
+}
+
+.info{
+  font-size: 20px;
+}
+
+.greeting{
+  font-size: 20px;
+  color: #310076;
+  font-weight: 600;
+}
+.likes{
+  background-color: white;
+  font-weight: 700;
+  margin-left: 80%;
+  padding: 2px 10px;
+  text-align: center;
+  color: #6a00ff;
+  border-radius: 10px;
+}
